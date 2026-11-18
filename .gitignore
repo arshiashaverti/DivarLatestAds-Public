@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Runtime data and logs
+data/
+*.log
+*.tmp
+ads.json
+known_ads.json
+divar-debug.png
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

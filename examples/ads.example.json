@@ -1,0 +1,17 @@
+{
+  "source": "https://divar.ir/",
+  "fetched_at": "2026-01-01T00:00:00+00:00",
+  "count": 2,
+  "ads": [
+    {
+      "id": "example-listing-001",
+      "title": "نمونه آگهی اول - داده ساختگی",
+      "url": "https://divar.ir/v/example-listing-001"
+    },
+    {
+      "id": "example-listing-002",
+      "title": "نمونه آگهی دوم - داده ساختگی",
+      "url": "https://divar.ir/v/example-listing-002"
+    }
+  ]
+}
